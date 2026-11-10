@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Author: David M. Anderson
+  Built with AI assistance (Claude, Anthropic)
+-->
+<schemalist>
+  <schema id="org.gnome.shell.extensions.bogenzeit" path="/org/gnome/shell/extensions/bogenzeit/">
+    <key name="kiloseconds" type="b">
+      <default>false</default>
+      <summary>Show the reading in kiloseconds</summary>
+      <description>Show the offset from the anchor in kiloseconds instead of the span position.</description>
+    </key>
+  </schema>
+</schemalist>

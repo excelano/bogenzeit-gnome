@@ -1,0 +1,13 @@
+.bogenzeit-button {
+  -natural-hpadding: 4px;
+  -minimum-hpadding: 4px;
+}
+
+.bogenzeit-reading {
+  spacing: 0.3em;
+}
+
+.bogenzeit-glyph {
+  width: 0.75em;
+  height: 0.75em;
+}

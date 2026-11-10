@@ -1,0 +1,8 @@
+{
+  "uuid": "bogenzeit@excelano.com",
+  "name": "Bogenzeit",
+  "description": "Shows the time as Bogenzeit, a position on the Sun's arc, beside the clock in the top bar. Needs the bz command.",
+  "shell-version": ["48"],
+  "settings-schema": "org.gnome.shell.extensions.bogenzeit",
+  "url": "https://github.com/excelano/bogenzeit-gnome"
+}

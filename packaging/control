@@ -1,0 +1,14 @@
+Package: gnome-shell-extension-bogenzeit
+Version: 0.1.0
+Architecture: all
+Maintainer: David M. Anderson <david.anderson@excelano.com>
+Depends: gnome-shell (>= 48~), bz (>= 0.7.0)
+Section: gnome
+Priority: optional
+Homepage: https://github.com/excelano/bogenzeit-gnome
+Description: Bogenzeit beside the clock in the GNOME top bar
+ Shows the time as Bogenzeit, a position on the Sun's arc counted in spans
+ from solar noon by day and solar midnight by night, next to the clock in
+ the GNOME Shell top bar. A click on the reading switches it between spans
+ and kiloseconds. The reading comes from the bz command at the default
+ place that bz place sets.
